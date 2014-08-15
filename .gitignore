@@ -2,6 +2,7 @@
 logs
 *.log
 db
+db/
 
 # Runtime data
 pids
